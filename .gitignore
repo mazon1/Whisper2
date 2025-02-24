@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+.env.local
+.secrets.toml
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
